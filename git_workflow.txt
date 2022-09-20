@@ -1,2 +1,2 @@
 This is a workflow test
-Merge into remote 
+Merge into conflict 
